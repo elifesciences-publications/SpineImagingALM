@@ -1,7 +1,7 @@
 # Spine imaging
 This repository is accompanying the paper:  
 ***Functional clustering of dendritic activity during decision-making***   
-Kerlin, A., Mohar, B., Flickinger, D., MacLennan, B.J., Davis, C., Spruston, N., and Svoboda, K. (2018). [BioRxiv 440396](https://www.biorxiv.org/content/early/2018/10/10/440396)
+Kerlin, A., Mohar, B., Flickinger, D., MacLennan, B.J., Davis, C., Spruston, N., and Svoboda, K. (2019). [eLife 46966](https://doi.org/10.7554/eLife.46966)
 
 ## Visualization (SpinveVis)
 The accompanying website [SpineVis](spinevis.janelia.org) has all the sessions included in the paper.  
